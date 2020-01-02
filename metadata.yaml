@@ -1,11 +1,16 @@
 _repo: Guerra-de-Granada-Hecha-por-el-rey-D-Felipe-II-contra-los-Moriscos-de-aquel-reino-sus-rebelde__61022
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61022-h/images/cover.jpg
 creator:
   author:
     agent_name: Mendoza, Diego Hurtado de
     gutenberg_agent_id: '51222'
     url: http://www.gutenberg.org/2009/agents/51222
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61022#Guerra-de-Granada-Hecha-por-el-rey-D-Felipe-II-contra-los-Moriscos-de-aquel-reino-sus-rebelde_
 gutenberg_issued: '2019-12-26'
 gutenberg_type: Text
 identifiers:
